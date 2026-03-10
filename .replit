@@ -9,4 +9,4 @@ localPort = 5000
 externalPort = 80
 
 [nix]
-packages = ["exploitdb", "tree", "nano", "wget"]
+packages = ["exploitdb", "nano", "tree", "wget"]

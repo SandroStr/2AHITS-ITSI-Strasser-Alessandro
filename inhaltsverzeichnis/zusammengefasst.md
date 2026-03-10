@@ -1,0 +1,1 @@
+SchorschWenn sie nicht gestorben sind dan sind sie gestorben aber viel wichtiger ist das manchen menschen einfach einen Inhalt für ihre Aufgabe brauchen aber keine ahnung haben wie viel da rein soll und deswegen ihrgendwas schreiben was eigentlich gar keinen sinn macht. Deswegen schreibe ich persönlich da rein.
